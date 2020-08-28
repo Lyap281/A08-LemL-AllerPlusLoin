@@ -1,0 +1,7 @@
+.jumbotron 
+{
+    background-image: url("../uploads/banniere.jpg");
+    background-size: cover;
+    height:350px;
+
+}
